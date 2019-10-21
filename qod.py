@@ -6,3 +6,5 @@ def getquote():
     print(c['contents']['quotes'][0]['quote'])
 if __name__ == "__main__": 
     print("main")
+    getquote()
+    exit()
