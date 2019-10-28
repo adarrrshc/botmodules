@@ -9,4 +9,4 @@ def getquote():
 
 
 if __name__ == "__main__":
-    print("module started")
+    print("module started.")
