@@ -1,3 +1,3 @@
 # botmodules
 
-module for attendancebot in telegram.
+module for attendancebot in telegram
