@@ -1,1 +1,3 @@
 # botmodules
+
+module for attendancebot
